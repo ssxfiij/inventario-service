@@ -9,5 +9,5 @@ public class InventarioServiceApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(InventarioServiceApplication.class, args);
 	}
-
+//cambio 1
 }
