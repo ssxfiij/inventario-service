@@ -10,4 +10,5 @@ public class InventarioServiceApplication {
 		SpringApplication.run(InventarioServiceApplication.class, args);
 	}
 //cambio 1
+//cambio 2
 }
